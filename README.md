@@ -30,5 +30,7 @@ REGION%5E1646: Liverpool
 REGION%5E902: Bath
 REGION%5E1050: Birmingham
 REGION%5E1429: Bristol
+
+
 To use the scraper for a different location, you can find the identifier by going to the Rightmove website and searching for properties in the desired location. The identifier will be included in the URL of the search results page.
 
